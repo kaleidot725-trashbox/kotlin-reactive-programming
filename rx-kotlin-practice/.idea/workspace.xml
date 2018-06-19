@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bb8f9b9-2f91-4cc3-97c1-1386a6eadfd4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/rx-kotlin-practice_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/rx-kotlin-practice_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/samples/P15_Observables.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/samples/P16_ReactiveEvenOdd.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/samples/P17_ReactiveCalculator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/samples/SampleInterface.kt" afterDir="false" />
-    </list>
+    <list default="true" id="4bb8f9b9-2f91-4cc3-97c1-1386a6eadfd4" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -73,8 +65,8 @@
       <file leaf-file-name="P17_ReactiveCalculator.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/samples/P17_ReactiveCalculator.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1515">
-              <caret line="101" column="30" selection-start-line="101" selection-start-column="24" selection-end-line="101" selection-end-column="30" />
+            <state relative-caret-position="135">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="e#17#153#0" expanded="true" />
               </folding>
@@ -783,6 +775,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="44" y="23" width="1396" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49778435" weight="0.32948717" />
@@ -792,7 +785,7 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.506647" side_tool="true" weight="0.32948717" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49335304" visible="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49335304" weight="0.32876712" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49778435" weight="0.32948717" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4985229" weight="0.32948717" />
       <window_info id="Capture Tool" order="2" />
@@ -929,8 +922,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/samples/P17_ReactiveCalculator.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1515">
-          <caret line="101" column="30" selection-start-line="101" selection-start-column="24" selection-end-line="101" selection-end-column="30" />
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#17#153#0" expanded="true" />
           </folding>
